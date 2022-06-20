@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126712489478",
+    "project_id": "mostlybook",
+    "storage_bucket": "mostlybook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126712489478:android:2f0512760e003e2bba4587",
+        "android_client_info": {
+          "package_name": "com.mostlybook.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126712489478-bo1neol2c25m74i9b7l3lj0ebd419240.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJy5Bo0HW7fqzrSsP3jVXreLrr-_WmQHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126712489478-bo1neol2c25m74i9b7l3lj0ebd419240.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

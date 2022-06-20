@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <!-- Cart Menu -->
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/cart"
+            android:iconTint="@color/colorPrimaryDark"
+            android:title="Cart"
+            />
+        <!-- Search Menu -->
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/ic_search"
+            android:title="Search"
+            android:iconTint="@color/colorPrimaryDark"
+            />
+        <!-- Profile Menu -->
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/setting"
+            android:title="Edit Profile"
+            android:iconTint="@color/colorPrimaryDark"/>
+        <!-- Logout Menu -->
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout"
+            android:title="Logout"
+            android:iconTint="@color/colorPrimaryDark"/>
+    </group>
+</menu>
